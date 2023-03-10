@@ -25,8 +25,7 @@ If for some reason this isn't working on your device, we can manually create a v
 ```
 conda create -n SolAsterTutorial
 
-conda install astropy jupyter matplotlib mkdocs mkdocs-jupyter mkdocs-material numpy pathlib pandas pymdown-extensi
-ons python-kaleido scipy scikit-learn scikit-image sunpy notebook lxml zeep drms --yes
+conda install astropy jupyter matplotlib mkdocs mkdocs-jupyter mkdocs-material numpy pathlib pandas pymdown-extensions python-kaleido scipy scikit-learn scikit-image sunpy notebook lxml zeep drms --yes
 ```
 
 Once you have sucessfully created a virtual environment, you need to activate it so python knows which interpreter to use:
