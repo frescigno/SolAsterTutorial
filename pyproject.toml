@@ -1,7 +1,7 @@
 [tool.poetry]
 authors = ["Ben Lakeland <bsl204@exeter.ac.uk>, Federica Rescigno <fr307@exeter.ac.uk>"]
 description = "A brief tutorial on how to download and use SDO images of the Sun"
-name = "solastertutorial"
+name = "SolAsterTutorial"
 readme = "README.md"
 version = "0.1.0"
 
